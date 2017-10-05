@@ -1,0 +1,7 @@
+{
+    "name": "ambimax/magento-module-diazwatson-duplicatecms",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "3.*"
+    }
+}
